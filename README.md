@@ -1,2 +1,2 @@
 # hello-world
-just a repository for learning
+An amazing world is waiting for me. GO GO GO !
